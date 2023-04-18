@@ -1,0 +1,9 @@
+module ReverseModule
+{
+	interface Reverse
+
+	{ 
+		string reverse_string(in string str);
+
+	};
+};
